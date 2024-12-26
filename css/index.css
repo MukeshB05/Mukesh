@@ -1199,6 +1199,7 @@ form button:hover{
     align-items: center;
     text-align: left;
     margin-left: 100px;
+    text-decoration:none;
 }
 .contact-info-icon-text{
     color: whitesmoke;
@@ -1228,6 +1229,7 @@ form button:hover{
     font-family: poppins;
     align-items: center;
     justify-content: center;
+    text-decoration:none;
 }
 .footer .footer-text{
     position: relative;
@@ -1235,6 +1237,7 @@ form button:hover{
     font-size: 18px;
     font-weight: 400;
     opacity: 1;
+    text-decoration:none;
 }
 .color-changer{
     height: auto;
