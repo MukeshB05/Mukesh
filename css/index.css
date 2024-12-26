@@ -1200,22 +1200,26 @@ form button:hover{
     align-items: center;
     text-align: left;
     margin-left: 100px;
+    color: whitesmoke;
     text-decoration: none;
 }
 .contact-info-icon-text{
     color: whitesmoke;
     padding:15px;
     font-family: poppins;
+    color: whitesmoke;
     text-decoration: none;
 }
 .contact-info-icon-text h6{
     font-size: 15px;
     opacity: .8;
+    color: whitesmoke;
     text-decoration: none;
 }
 .contact-info-icon-text p{
     font-size: 14px;
     opacity: .7;
+    color: whitesmoke;
     text-decoration: none;
 }
 .icon{
@@ -1241,6 +1245,7 @@ form button:hover{
     font-size: 18px;
     font-weight: 400;
     opacity: 1;
+    color: whitesmoke;
     text-decoration:none;
 }
 .color-changer{
@@ -1796,22 +1801,26 @@ For devices with smaller width like mobile phone
                 align-items: center;
                 text-align: left;
                 margin-left: 5%;
+                color: whitesmoke;
                 text-decoration: none;
             }
             .contact-info-icon-text{
                 color: whitesmoke;
                 padding:15px;
                 font-family: poppins;
+                color: whitesmoke;
                 text-decoration:none;
             }
             .contact-info-icon-text h6{
                 font-size: 15px;
                 opacity: .8;
+                color: whitesmoke;
                 text-decoration: none;
             }
             .contact-info-icon-text p{
                 font-size: 14px;
                 opacity: .7;
+                color: whitesmoke;
                 text-decoration: none;
             }
             .hire-me-section{
@@ -2276,6 +2285,7 @@ for tabs and large phones
                 align-items: center;
                 text-align: left;
                 margin-left: 30%;
+                color: whitesmoke;
                 text-decoration: none;
             }
             .hire-me-section{
