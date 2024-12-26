@@ -1188,6 +1188,7 @@ form button:hover{
     font-weight: 400;
     color: whitesmoke;
     padding: 30px;
+    text-decoration: none;
 }
 .contect-info-content-line{
     height: auto;
@@ -1199,20 +1200,23 @@ form button:hover{
     align-items: center;
     text-align: left;
     margin-left: 100px;
-    text-decoration:none;
+    text-decoration: none;
 }
 .contact-info-icon-text{
     color: whitesmoke;
     padding:15px;
     font-family: poppins;
+    text-decoration: none;
 }
 .contact-info-icon-text h6{
     font-size: 15px;
     opacity: .8;
+    text-decoration: none;
 }
 .contact-info-icon-text p{
     font-size: 14px;
     opacity: .7;
+    text-decoration: none;
 }
 .icon{
     height:40px;
@@ -1663,6 +1667,7 @@ For devices with smaller width like mobile phone
                 flex-direction: column;
                 align-items: center;
                 justify-content: center;
+                text-decoration: none;
             }
             .contact-info{
                 width: 90%;
@@ -1674,6 +1679,7 @@ For devices with smaller width like mobile phone
                 margin-bottom: 25px;
                 position: relative;
                 overflow: hidden;
+                text-decoration:none;
             }
             .contact-info::before{
                 content: "";
@@ -1685,6 +1691,7 @@ For devices with smaller width like mobile phone
                 background: #101010;
                 opacity: .7;
                 pointer-events: none;
+                text-decoration: none;
             }
             .contact-form{
                 height: auto;
@@ -1789,19 +1796,23 @@ For devices with smaller width like mobile phone
                 align-items: center;
                 text-align: left;
                 margin-left: 5%;
+                text-decoration: none;
             }
             .contact-info-icon-text{
                 color: whitesmoke;
                 padding:15px;
                 font-family: poppins;
+                text-decoration:none;
             }
             .contact-info-icon-text h6{
                 font-size: 15px;
                 opacity: .8;
+                text-decoration: none;
             }
             .contact-info-icon-text p{
                 font-size: 14px;
                 opacity: .7;
+                text-decoration: none;
             }
             .hire-me-section{
                 display: none;
@@ -2138,6 +2149,7 @@ for tabs and large phones
                 flex-direction: column;
                 align-items: center;
                 justify-content: center;
+                text-decoration: none;
             }
             .contact-info{
                 width: 70%;
@@ -2264,6 +2276,7 @@ for tabs and large phones
                 align-items: center;
                 text-align: left;
                 margin-left: 30%;
+                text-decoration: none;
             }
             .hire-me-section{
                 display: none;
@@ -2467,6 +2480,7 @@ for tabs and large phones
         flex-direction: row;
         align-items: center;
         justify-content: center;
+        text-decoration: none;
     }
     .contact-info{
         width: 40%;
