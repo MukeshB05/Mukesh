@@ -1207,19 +1207,19 @@ form button:hover{
     color: whitesmoke;
     padding:15px;
     font-family: poppins;
-    color: whitesmoke;
+    color: white;
     text-decoration: none;
 }
 .contact-info-icon-text h6{
     font-size: 15px;
     opacity: .8;
-    color: whitesmoke;
+    color: white;
     text-decoration: none;
 }
 .contact-info-icon-text p{
     font-size: 14px;
     opacity: .7;
-    color: whitesmoke;
+    color: white;
     text-decoration: none;
 }
 .icon{
@@ -1808,19 +1808,18 @@ For devices with smaller width like mobile phone
                 color: whitesmoke;
                 padding:15px;
                 font-family: poppins;
-                color: whitesmoke;
                 text-decoration:none;
             }
             .contact-info-icon-text h6{
                 font-size: 15px;
                 opacity: .8;
-                color: whitesmoke;
+                color: white;
                 text-decoration: none;
             }
             .contact-info-icon-text p{
                 font-size: 14px;
                 opacity: .7;
-                color: whitesmoke;
+                color: white;
                 text-decoration: none;
             }
             .hire-me-section{
@@ -2285,7 +2284,7 @@ for tabs and large phones
                 align-items: center;
                 text-align: left;
                 margin-left: 30%;
-                color: whitesmoke;
+                color: white;
                 text-decoration: none;
             }
             .hire-me-section{
