@@ -225,10 +225,10 @@ body{
 }
 .header-image img{
     height: 100vh;
-    float: center;
+    float: right;
 }
 .header-image{
-    float: center;
+    float: right;
     height: auto;
     background-size: cover;
     background-position: center;
@@ -1854,7 +1854,7 @@ for tabs and large phones
         font-size: 40px;
     }
     .header-image{
-        float: center;
+        float: right;
         height: auto;
         width: 0%;   
     }
