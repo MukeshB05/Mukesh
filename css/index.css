@@ -1085,6 +1085,7 @@ padding-bottom: 40px;
     margin-bottom: 50px;
     position: relative;
     overflow: hidden;
+    text-decoration: none;
 }
 .contact-info::before{
     content: "";
@@ -1096,6 +1097,7 @@ padding-bottom: 40px;
     background: #101010;
     opacity: .8;
     pointer-events: none;
+    text-decoration: none;
 }
 .contact-form{
     height: 550px;
@@ -2169,6 +2171,7 @@ for tabs and large phones
                 margin-bottom: 50px;
                 position: relative;
                 overflow: hidden;
+                text-decoration: none;
             }
             .contact-info::before{
                 content: "";
@@ -2180,6 +2183,7 @@ for tabs and large phones
                 background: #101010;
                 opacity: .7;
                 pointer-events: none;
+                text-decoration: none;
             }
             .contact-form{
                 height: auto;
@@ -2501,6 +2505,7 @@ for tabs and large phones
         margin-bottom: 50px;
         position: relative;
         overflow: hidden;
+        text-decoration: none;
     }
     .contact-info::before{
         content: "";
@@ -2512,6 +2517,7 @@ for tabs and large phones
         background: #101010;
         opacity: .7;
         pointer-events: none;
+        text-decoration: none;
     }
     .contact-form{
         height: 600px;
